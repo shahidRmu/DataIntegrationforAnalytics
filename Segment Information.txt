@@ -1,0 +1,6 @@
+SegmentID	SegmentName
+SEG1234	Channel Partners
+SEG2345	Enterprise
+SEG3456	Government
+SEG4567	Midmarket
+SEG5678	Small Business
